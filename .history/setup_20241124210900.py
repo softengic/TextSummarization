@@ -19,5 +19,5 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url=f"https://github.com/SOFTENGIC/{REPO_NAME}",
     package_dir={"": "src"},
-    packages=setuptools.find_packages(where="src")
-)
+    packages=setuptools.find_packages(where="src"),
+
